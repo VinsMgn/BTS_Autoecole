@@ -1,0 +1,38 @@
+E:\EPSI\B2\Semestre_1\Projet C#\autoecole\autoecole\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\EPSI\B2\Semestre_1\Projet C#\autoecole\autoecole\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\EPSI\B2\Semestre_1\Projet C#\autoecole\autoecole\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\EPSI\B2\Semestre_1\Projet C#\autoecole\autoecole\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\EPSI\B2\Semestre_1\Projet C#\autoecole\autoecole\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\EPSI\B2\Semestre_1\Projet C#\autoecole\autoecole\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Cours_EPSI\B2\C#\projet_BTS_csharp\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Cours_EPSI\B2\C#\BTSAUTOECOLE\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\EPSI\B2\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\obj\Debug\ClassLibrary.pdb

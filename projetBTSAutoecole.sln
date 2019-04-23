@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projetBTSAutoecole", "projetBTSAutoecole\projetBTSAutoecole.csproj", "{BA2330D8-F943-43B9-9E71-3DD4D9135865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "..\..\..\Semestre_1\Projet C#\BTSAUTOECOLE_RECOVER\ClassLibrary\ClassLibrary.csproj", "{D83095A2-6224-4DA7-B848-F4F6A6763827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2330D8-F943-43B9-9E71-3DD4D9135865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2330D8-F943-43B9-9E71-3DD4D9135865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2330D8-F943-43B9-9E71-3DD4D9135865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2330D8-F943-43B9-9E71-3DD4D9135865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83095A2-6224-4DA7-B848-F4F6A6763827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83095A2-6224-4DA7-B848-F4F6A6763827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83095A2-6224-4DA7-B848-F4F6A6763827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83095A2-6224-4DA7-B848-F4F6A6763827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805525F7-4BED-41D7-B206-2B1DFE1D8CF3}
+	EndGlobalSection
+EndGlobal
